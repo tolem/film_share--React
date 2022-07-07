@@ -5,7 +5,6 @@ import SearchIcon from "./search.svg";
 import "./App.css";
 
 
-
 const API_URL = (process.env.API_URL);
 console.log(API_URL)
 const App = () => {
