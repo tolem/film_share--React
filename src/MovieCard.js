@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
