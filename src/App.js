@@ -5,7 +5,7 @@ import "./App.css";
 
 
 
-const API_URL_KEY = `${process.env.REACT_APP_API_URL}`;
+const API_URL_KEY = `${process.env.NEXT_PUBLIC_API_URL}`;
 
 console.log(API_URL_KEY)
 const App = () => {
